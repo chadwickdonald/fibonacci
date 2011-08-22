@@ -17,8 +17,8 @@ Jeweler::Tasks.new do |gem|
   gem.name = "fibonacci"
   gem.homepage = "http://github.com/chadwickdonald/fibonacci"
   gem.license = "MIT"
-  gem.summary = %Q{TODO: one-line summary of your gem}
-  gem.description = %Q{TODO: longer description of your gem}
+  gem.summary = %Q{fibonacci gem}
+  gem.description = %Q{given an integer, gem gives you highest integer from fibonacci series less than integer}
   gem.email = "chadwickbidwell@gmail.com"
   gem.authors = ["Chadwick Bidwell"]
   # dependencies defined in Gemfile
